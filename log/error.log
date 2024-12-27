@@ -1,0 +1,151 @@
+2024-12-23T11:13:58.603Z [31merror[39m: Error
+2024-12-23T11:14:32.028Z error: Error
+2024-12-23T11:15:18.853Z error: Error
+2024-12-23T11:15:21.794Z error: Error
+2024-12-23T11:15:25.446Z error: Error
+2024-12-23T11:15:28.390Z error: Error
+2024-12-23T11:15:29.590Z error: Error
+2024-12-23T11:15:31.689Z error: Error
+2024-12-23T11:15:38.059Z error: Error
+2024-12-23T11:16:39.743Z error: Error
+2024-12-23T11:16:42.227Z error: Error
+2024-12-23T11:16:44.022Z error: Error
+2024-12-23T11:16:48.421Z error: Error
+2024-12-23T11:21:44.419Z error: Error
+2024-12-23T11:21:45.523Z error: Error
+2024-12-23T11:21:49.613Z error: Error
+2024-12-23T11:22:14.050Z error: Error
+2024-12-23T11:22:29.438Z error: Error
+2024-12-23T11:22:30.461Z error: Error
+2024-12-23T11:22:41.527Z error: Error
+2024-12-23T11:22:58.946Z error: Expected ',' or '}' after property value in JSON at position 51 (line 3 column 5)
+2024-12-23T11:22:59.531Z error: Error
+2024-12-23T11:23:02.875Z error: Expected ',' or '}' after property value in JSON at position 51 (line 3 column 5)
+2024-12-23T11:31:48.724Z error: Error
+2024-12-23T11:31:49.394Z error: Error
+2024-12-23T11:33:15.237Z error: Error
+2024-12-23T11:33:16.258Z error: Error
+2024-12-23T11:33:43.875Z error: Error
+2024-12-23T11:43:41.297Z error: Error
+2024-12-23T11:44:41.394Z error: Error
+2024-12-23T11:44:46.031Z error: Error
+2024-12-23T11:49:26.334Z error: Error
+2024-12-23T11:49:27.041Z error: Error
+2024-12-23T11:50:34.586Z error: Error
+2024-12-23T11:52:05.446Z error: Error
+2024-12-23T11:52:14.889Z error: Error
+2024-12-23T11:52:17.968Z error: Error
+2024-12-23T11:52:25.912Z error: Error
+2024-12-23T11:52:27.495Z error: Error
+2024-12-23T11:52:36.568Z error: Error
+2024-12-23T11:52:40.093Z error: Error
+2024-12-23T11:52:44.186Z error: Error
+2024-12-23T11:52:52.485Z error: Error
+2024-12-23T11:52:53.096Z error: Error
+2024-12-23T11:52:53.885Z error: Error
+2024-12-23T12:07:01.170Z error: Error
+2024-12-23T12:07:01.821Z error: Error
+2024-12-23T12:58:06.920Z error: Error
+2024-12-23T12:58:07.518Z error: Error
+2024-12-23T13:11:20.650Z error: Error
+2024-12-23T13:11:21.217Z error: Error
+2024-12-23T13:11:21.236Z error: Error
+2024-12-23T13:12:08.858Z error: Error
+2024-12-23T13:12:20.776Z error: Error
+2024-12-23T13:13:10.698Z error: Error
+2024-12-23T13:13:28.480Z error: Error
+2024-12-23T13:13:28.485Z error: Error
+2024-12-23T13:13:49.380Z error: Error
+2024-12-23T13:13:54.483Z error: Error
+2024-12-23T13:14:06.882Z error: Error
+2024-12-23T13:14:30.364Z error: Error
+2024-12-23T13:14:30.364Z error: Error
+2024-12-23T13:14:35.838Z error: Error
+2024-12-23T13:14:35.840Z error: Error
+2024-12-23T13:14:40.256Z error: Error
+2024-12-23T13:14:40.275Z error: Error
+2024-12-23T13:14:45.263Z error: Error
+2024-12-23T13:14:45.281Z error: Error
+2024-12-23T13:14:49.785Z error: Error
+2024-12-23T13:14:49.800Z error: Error
+2024-12-23T13:14:52.792Z error: Error
+2024-12-23T13:14:52.794Z error: Error
+2024-12-23T13:14:56.192Z error: Error
+2024-12-23T13:14:56.180Z error: Error
+2024-12-23T13:15:24.598Z error: Error
+2024-12-23T13:15:24.596Z error: Error
+2024-12-23T13:15:33.486Z error: Error
+2024-12-23T13:15:33.494Z error: Error
+2024-12-23T13:15:38.143Z error: Error
+2024-12-23T13:15:38.145Z error: Error
+2024-12-24T10:58:18.360Z error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+2024-12-24T10:58:46.828Z error: E11000 duplicate key error collection: itinfo.authors index: author_phone_1 dup key: { author_phone: "12-345-67-80" }
+2024-12-24T10:59:08.006Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:15:45.593Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:15:59.223Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:16:18.892Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:16:39.043Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:16:40.090Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:09.599Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:12.139Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:27.843Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T15:15:34.543Z error: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+2024-12-24T15:16:06.887Z error: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+2024-12-24T15:17:11.206Z error: t.toObject is not a function
+2024-12-24T17:10:24.374Z error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+2024-12-25T07:09:12.384Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johnny" }
+2024-12-25T07:09:15.547Z error: E11000 duplicate key error collection: itinfo.authors index: author_phone_1 dup key: { author_phone: "99-999-99-99" }
+2024-12-25T07:10:02.779Z error: author is not defined
+2024-12-25T07:10:59.133Z error: author is not defined
+2024-12-25T07:37:27.693Z error: Cannot populate path `Author` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-12-25T07:37:47.871Z error: Topic.find(...).strictPopulate is not a function
+2024-12-25T07:38:00.843Z error: Cannot populate path `Author` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-12-25T09:56:59.134Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johanny" }
+2024-12-25T11:40:30.165Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johanny" }
+2024-12-25T11:40:48.502Z error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+2024-12-25T11:41:10.234Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johannyasd" }

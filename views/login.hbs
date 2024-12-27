@@ -1,0 +1,66 @@
+<div id="login-form" class="container py-5">
+  <div class="row">
+    <div class="col-md-6 col-lg-4 mx-auto">
+      <div class="card shadow-sm">
+        <div class="card-body p-4">
+          <h3 class="card-title text-center mb-4">Login</h3>
+          <form id="loginForm">
+            <div class="mb-3">
+              <label for="email" class="form-label">Email address</label>
+              <div class="input-group">
+                <span class="input-group-text"><i
+                    class="bi bi-envelope"
+                  ></i></span>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="email"
+                  name="email"
+                  aria-describedby="emailHelp"
+                  value="qwerty@qwerty.com"
+                />
+              </div>
+              <div id="emailHelp" class="form-text">We'll never share your email
+                with anyone else.</div>
+            </div>
+            <div class="mb-4">
+              <label for="password" class="form-label">Password</label>
+              <div class="input-group">
+                <span class="input-group-text"><i class="bi bi-key"></i></span>
+                <input
+                  type="password"
+                  class="form-control"
+                  id="password"
+                  name="password"
+                  value="password123"
+                />
+              </div>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Sign In</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="welcome" style="display: none;">
+  <h3>IT-INFOga xush kelisbsiz</h3>
+</div>
+
+<script>
+  const form = document.getElementById("loginForm");
+  form.addEventListener("submit", async (e) => { e.preventDefault(); const email
+  = document.getElementById("email").value; const password =
+  document.getElementById("password").value; try {
+  fetch("http://localhost:3030/api/author/login", { method: "POST", headers: {
+  "Content-Type": "application/json", }, body: JSON.stringify({ author_email:
+  email, author_password: password }) }) .then(res => { console.log(res); if
+  (res.ok) { console.log("Success"); return res.json(); } else {
+  console.error("Failed"); } }) .then(data => { console.log(data);
+  localStorage.setItem("accessToken", data.accessToken);
+  document.getElementById("login-form").style.display = "none";
+  document.getElementById("welcome").style.display = "block" }) .catch(err => {
+  console.error("Xatolik yuzaga keldi", err); }); } catch (err) {
+  console.log(err); } });
+</script>

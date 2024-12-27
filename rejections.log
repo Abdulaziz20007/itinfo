@@ -1,0 +1,30 @@
+2024-12-24T10:59:08.006Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:15:59.223Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:16:39.043Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:09.599Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:27.843Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

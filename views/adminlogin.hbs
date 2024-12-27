@@ -1,0 +1,61 @@
+<div id="login-form" class="container py-5">
+  <div class="row">
+    <div class="col-md-6 col-lg-4 mx-auto">
+      <div class="card shadow-sm">
+        <div class="card-body p-4">
+          <h3 class="card-title text-center mb-4">Admin Login</h3>
+          <form id="adminLoginForm">
+            <div class="mb-3">
+              <label for="email" class="form-label">Email address</label>
+              <div class="input-group">
+                <span class="input-group-text"><i
+                    class="bi bi-envelope"
+                  ></i></span>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="email"
+                  name="email"
+                  aria-describedby="emailHelp"
+                />
+              </div>
+            </div>
+            <div class="mb-4">
+              <label for="password" class="form-label">Password</label>
+              <div class="input-group">
+                <span class="input-group-text"><i class="bi bi-key"></i></span>
+                <input
+                  type="password"
+                  class="form-control"
+                  id="password"
+                  name="password"
+                />
+              </div>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Admin Sign In</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="welcome" style="display: none;">
+  <h3>Admin panelga xush kelibsiz</h3>
+</div>
+
+<script>
+  const form = document.getElementById("adminLoginForm");
+  form.addEventListener("submit", async (e) => { e.preventDefault(); const email
+  = document.getElementById("email").value; const password =
+  document.getElementById("password").value; try { const response = await
+  fetch("http://localhost:3030/api/admin/login", { method: "POST", headers: {
+  "Content-Type": "application/json", }, body: JSON.stringify({ admin_email:
+  email, admin_password: password }) }); if (response.ok) { const data = await
+  response.json(); localStorage.setItem("adminAccessToken",
+  data.tokens.accessToken); document.getElementById("login-form").style.display
+  = "none"; document.getElementById("welcome").style.display = "block";
+  setTimeout(() => { window.location.href = "/admin/dashboard"; }, 2000); } else
+  { const error = await response.json(); console.error("Login failed:", error);
+  } } catch (err) { console.error("Error during login:", err); } });
+</script>

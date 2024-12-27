@@ -1,0 +1,2547 @@
+2024-12-23T11:43:41.298Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:44:41.396Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:44:46.033Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:49:26.336Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:49:27.043Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:50:34.588Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:05.448Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:14.891Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:17.969Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:25.914Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:27.497Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:36.570Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:40.095Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:44.188Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:52.487Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:53.098Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T11:52:53.887Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T12:07:01.173Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T12:07:01.823Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T12:58:06.929Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T12:58:07.520Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:11:20.652Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:11:21.219Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:11:21.237Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:12:08.860Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:12:20.778Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:13:10.699Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:13:28.482Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:13:28.487Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:13:49.382Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:13:54.485Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:06.884Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:30.366Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:30.367Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:35.840Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:35.842Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:40.258Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:40.277Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:45.265Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:45.283Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:49.786Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:49.802Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:52.794Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:52.796Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:56.193Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:21:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:14:56.181Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:21:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:00.224Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:00.244Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:09.121Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:10:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:09.121Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:10:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:11.099Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:9:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:11.101Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:9:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:14.041Z error: uncaughtException: Cannot access 'PORT' before initialization
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:9:13)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:24.600Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:20:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:24.597Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:20:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:33.488Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:33.496Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:38.145Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:38.147Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:43.946Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:43.959Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:48.983Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:48.993Z error: uncaughtException: Configuration property "secret" is not defined
+Error: Configuration property "secret" is not defined
+    at Config.get (C:\Users\Abdulaziz\Desktop\ITINFO\node_modules\config\lib\config.js:181:11)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:52.414Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:15:52.423Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:01.996Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:02.000Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:03.417Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:03.419Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:18.121Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:18.121Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:24.229Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:23:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:24.228Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:23:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:27.883Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:23:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:27.894Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:23:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:30.722Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:30.723Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:35.237Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:23:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:35.247Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:23:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:38.399Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:38.399Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:39.146Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:39.158Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:59.819Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:16:59.825Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:17:08.460Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-23T13:17:08.465Z error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:20:49.300Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:19:20)
+2024-12-24T10:20:49.841Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:19:20)
+2024-12-24T10:21:03.998Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:21:15.368Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:21:17.712Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:21:23.948Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:21:24.531Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:21:43.500Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:21:50.637Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:21:57.367Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:21:59.927Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:22:04.799Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:22:09.362Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:22:14.108Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:22:19.754Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:22:22.460Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:22:34.376Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:22:35.070Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:23:09.575Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:23:12.214Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:17:20)
+2024-12-24T10:23:13.980Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:18:20)
+2024-12-24T10:23:18.202Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:14:20)
+2024-12-24T10:23:23.914Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:19:20)
+2024-12-24T10:23:27.198Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+2024-12-24T10:23:30.343Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:22:20)
+2024-12-24T10:23:32.724Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:23:37.796Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:23:40.670Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:26:20)
+2024-12-24T10:23:42.702Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:24:32.509Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:24:39.523Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:24:42.698Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:24:46.811Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:24:49.071Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:25:20)
+2024-12-24T10:25:04.105Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:25:20)
+2024-12-24T10:25:14.847Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+2024-12-24T10:25:18.168Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:25:20)
+2024-12-24T10:26:03.082Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:26:13.128Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:26:15.307Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:26:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:26:17.754Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:26:23.987Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:24:20)
+2024-12-24T10:26:28.120Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:25:20)
+2024-12-24T10:26:36.920Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:26:20)
+2024-12-24T10:26:38.390Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:26:20)
+2024-12-24T10:27:26.741Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:25:20)
+2024-12-24T10:27:34.599Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:26:20)
+2024-12-24T10:27:39.009Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:27:39.791Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:27:40.719Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:27:46.590Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:28:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:27:51.098Z error: uncaughtException: viewRouter is not defined
+ReferenceError: viewRouter is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:14)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:28:01.249Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:25:20)
+2024-12-24T10:28:12.449Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:25:20)
+2024-12-24T10:28:19.879Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:28:22.687Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:26:20)
+2024-12-24T10:28:32.557Z error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T10:29:35.407Z error: uncaughtException: error_handling_middleware is not defined
+ReferenceError: error_handling_middleware is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:31:9)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:29:46.394Z error: uncaughtException: error_handling_middleware is not defined
+ReferenceError: error_handling_middleware is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:31:9)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:29:48.651Z error: uncaughtException: error_handling_middleware is not defined
+ReferenceError: error_handling_middleware is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:31:9)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:29:51.022Z error: uncaughtException: error_handling_middleware is not defined
+ReferenceError: error_handling_middleware is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:30:9)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:53:14.428Z error: uncaughtException: Unexpected token ','
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:124
+      accessToken: tokens.,
+                          ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\author.routes.js:16:5)
+2024-12-24T10:53:30.734Z error: uncaughtException: Unexpected token ':'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:125
+      accessToken: tokens.accessToken,
+                 ^
+
+SyntaxError: Unexpected token ':'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\author.routes.js:16:5)
+2024-12-24T10:53:32.921Z error: uncaughtException: Unexpected identifier 'accessToken'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:125
+      accessToken: tokens.accessToken,
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\author.routes.js:16:5)
+2024-12-24T10:53:35.901Z error: uncaughtException: Unexpected identifier 'accessToken'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:125
+      accessToken: tokens.accessToken,
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\author.routes.js:16:5)
+2024-12-24T10:53:37.929Z error: uncaughtException: Unexpected identifier 'accessToken'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:125
+      accessToken: tokens.accessToken,
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\author.routes.js:16:5)
+2024-12-24T10:53:39.135Z error: uncaughtException: Unexpected identifier 'accessToken'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:125
+      accessToken: tokens.accessToken,
+      ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'accessToken'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\author.routes.js:16:5)
+2024-12-24T10:59:09.013Z error: uncaughtException: unCaughtException error
+Error: unCaughtException error
+    at Timeout._onTimeout (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:130:21)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2024-12-24T11:16:00.223Z error: uncaughtException: unCaughtException error
+Error: unCaughtException error
+    at Timeout._onTimeout (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:130:21)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2024-12-24T11:16:40.046Z error: uncaughtException: unCaughtException error
+Error: unCaughtException error
+    at Timeout._onTimeout (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:130:21)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2024-12-24T11:18:10.600Z error: uncaughtException: unCaughtException error
+Error: unCaughtException error
+    at Timeout._onTimeout (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:130:21)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2024-12-24T11:18:28.849Z error: uncaughtException: unCaughtException error
+Error: unCaughtException error
+    at Timeout._onTimeout (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:130:21)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2024-12-24T14:08:09.521Z error: uncaughtException: Identifier 'Dictionary' has already been declared
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:3
+const Dictionary = require("../schemas/Dictionary");
+      ^
+
+SyntaxError: Identifier 'Dictionary' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:08:16.157Z error: uncaughtException: Identifier 'Dictionary' has already been declared
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:4
+const Dictionary = require("../schemas/Dictionary");
+      ^
+
+SyntaxError: Identifier 'Dictionary' has already been declared
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:09:04.051Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:21
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:09:07.835Z error: uncaughtException: Malformed arrow function parameter list
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:16
+router.get("/dictionary", as (req, res) => {
+                          ^^^^^^^^^^^^
+
+SyntaxError: Malformed arrow function parameter list
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:09:09.378Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:21
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:09:19.708Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:21
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:09:26.109Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:21
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:11:31.326Z error: uncaughtException: Unexpected identifier 'Dictionary'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:20
+    data: {await Dictionary.find()}
+                 ^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'Dictionary'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:12:00.408Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:21
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:13:05.046Z error: uncaughtException: Unexpected identifier 'Dictionary'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:20
+    data: {await Dictionary.find()}
+                 ^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'Dictionary'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:13:07.970Z error: uncaughtException: Unexpected identifier 'Dictionary'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:20
+    data: {termsawait Dictionary.find()}
+                      ^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'Dictionary'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:13:46.839Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:20
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:47:38.809Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:13
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:47:40.169Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:14
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:47:49.675Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:14
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:47:52.024Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:14
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:47:55.666Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:14
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:47:59.086Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:14
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:01.275Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:14
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:04.139Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:14
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:08.240Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:15
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:13.705Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:15
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:15.211Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:15
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:17.780Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:15
+  })
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:19.301Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:15
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:33.474Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:16
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:36.781Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:16
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:45.477Z error: uncaughtException: Missing initializer in const declaration
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:12
+    res.render(createViewPage("index"), {
+    ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:48:47.738Z error: uncaughtException: Missing initializer in const declaration
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:11
+    const terms 
+          ^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:49:55.879Z error: uncaughtException: Missing initializer in const declaration
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:19
+    res.render(createViewPage("dictionary"), {
+    ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T14:49:58.077Z error: uncaughtException: Missing initializer in const declaration
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:18
+    const terms
+          ^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T15:16:57.744Z error: uncaughtException: Unexpected token ';'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:18
+    const terms = ;
+                  ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T15:16:58.930Z error: uncaughtException: Unexpected token ';'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:18
+    const terms = ;
+                  ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T15:17:03.334Z error: uncaughtException: Unexpected token ';'
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:18
+    const terms = ;
+                  ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T15:22:20.054Z error: uncaughtException: missing ) after argument list
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:43
+    const terms = JSON.parse(JSON.stringify(await Dictionary.find()));
+                                            ^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T15:22:24.449Z error: uncaughtException: Malformed arrow function parameter list
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\view.routes.js:41
+router.get("/topics", as (req, res) => {
+                      ^^^^^^^^^^^^
+
+SyntaxError: Malformed arrow function parameter list
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\app.js:27:20)
+2024-12-24T15:29:23.350Z error: uncaughtException: deleteTerm is not defined
+ReferenceError: deleteTerm is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\dict.routes.js:16:30)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\index.routes.js:3:19)
+2024-12-24T15:29:48.979Z error: uncaughtException: updateTerm is not defined
+ReferenceError: updateTerm is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\dict.routes.js:18:27)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\index.routes.js:3:19)
+2024-12-24T17:03:14.811Z error: uncaughtException: missing ) after argument list
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:11
+router.get("/", user getAllTopics);
+                ^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\index.routes.js:8:20)
+2024-12-24T17:03:16.970Z error: uncaughtException: missing ) after argument list
+C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:12
+router.get("/", user_police getAllTopics);
+                ^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\index.routes.js:8:20)
+2024-12-24T17:04:29.668Z error: uncaughtException: user_police is not defined
+ReferenceError: user_police is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:11:17)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\index.routes.js:8:20)
+2024-12-24T17:04:32.146Z error: uncaughtException: author is not defined
+ReferenceError: author is not defined
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:11:17)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\index.routes.js:8:20)
+2024-12-24T17:06:26.772Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\topic.controller.js:31
+    const newTopic = await Topic.create({ ...value, author_id: });
+                                                               ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:9:5)
+2024-12-24T17:06:36.860Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\topic.controller.js:31
+    const newTopic = await Topic.create({ ...value, author_id: req.});
+                                                                   ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:9:5)
+2024-12-24T17:13:02.931Z error: uncaughtException: Unexpected token '}'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\topic.controller.js:31
+    const newTopic = await Topic.create({...value, author_id: });
+                                                              ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:9:5)
+2024-12-24T17:14:27.493Z error: uncaughtException: Unexpected token 'const'
+C:\Users\Abdulaziz\Desktop\ITINFO\controllers\topic.controller.js:30
+    const { error, value } = topicValidation(req.body);
+    ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Abdulaziz\Desktop\ITINFO\routes\topic.routes.js:9:5)

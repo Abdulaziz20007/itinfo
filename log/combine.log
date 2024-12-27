@@ -1,0 +1,385 @@
+2024-12-23T11:13:58.602Z [32minfo[39m: Log
+2024-12-23T11:13:58.603Z [31merror[39m: Error
+2024-12-23T11:13:58.603Z [33mwarn[39m: Warning
+2024-12-23T11:13:58.604Z [32minfo[39m: Info
+2024-12-23T11:14:32.026Z info: Log
+2024-12-23T11:14:32.028Z error: Error
+2024-12-23T11:14:32.028Z warn: Warning
+2024-12-23T11:14:32.028Z info: Info
+2024-12-23T11:15:18.852Z info: Log
+2024-12-23T11:15:18.853Z error: Error
+2024-12-23T11:15:18.854Z warn: Warning
+2024-12-23T11:15:18.854Z info: Info
+2024-12-23T11:15:21.793Z info: Log
+2024-12-23T11:15:21.794Z error: Error
+2024-12-23T11:15:21.794Z warn: Warning
+2024-12-23T11:15:21.794Z info: Info
+2024-12-23T11:15:25.445Z info: Log
+2024-12-23T11:15:25.446Z error: Error
+2024-12-23T11:15:25.447Z warn: Warning
+2024-12-23T11:15:25.447Z info: Info
+2024-12-23T11:15:28.388Z info: Log
+2024-12-23T11:15:28.390Z error: Error
+2024-12-23T11:15:28.390Z warn: Warning
+2024-12-23T11:15:28.390Z info: Info
+2024-12-23T11:15:29.588Z info: Log
+2024-12-23T11:15:29.590Z error: Error
+2024-12-23T11:15:29.590Z warn: Warning
+2024-12-23T11:15:29.590Z info: Info
+2024-12-23T11:15:31.687Z info: Log
+2024-12-23T11:15:31.689Z error: Error
+2024-12-23T11:15:31.689Z warn: Warning
+2024-12-23T11:15:31.689Z info: Info
+2024-12-23T11:15:38.057Z info: Log
+2024-12-23T11:15:38.059Z error: Error
+2024-12-23T11:15:38.059Z warn: Warning
+2024-12-23T11:15:38.059Z info: Info
+2024-12-23T11:16:39.742Z info: Log
+2024-12-23T11:16:39.743Z error: Error
+2024-12-23T11:16:39.744Z warn: Warning
+2024-12-23T11:16:39.744Z info: Info
+2024-12-23T11:16:42.226Z info: Log
+2024-12-23T11:16:42.227Z error: Error
+2024-12-23T11:16:42.227Z warn: Warning
+2024-12-23T11:16:42.228Z info: Info
+2024-12-23T11:16:44.021Z info: Log
+2024-12-23T11:16:44.022Z error: Error
+2024-12-23T11:16:44.023Z warn: Warning
+2024-12-23T11:16:44.023Z info: Info
+2024-12-23T11:16:48.420Z info: Log
+2024-12-23T11:16:48.421Z error: Error
+2024-12-23T11:16:48.421Z warn: Warning
+2024-12-23T11:16:48.421Z info: Info
+2024-12-23T11:21:44.417Z info: Log
+2024-12-23T11:21:44.419Z error: Error
+2024-12-23T11:21:44.419Z warn: Warning
+2024-12-23T11:21:44.419Z info: Info
+2024-12-23T11:21:45.521Z info: Log
+2024-12-23T11:21:45.523Z error: Error
+2024-12-23T11:21:45.523Z warn: Warning
+2024-12-23T11:21:45.523Z info: Info
+2024-12-23T11:21:49.612Z info: Log
+2024-12-23T11:21:49.613Z error: Error
+2024-12-23T11:21:49.614Z warn: Warning
+2024-12-23T11:21:49.614Z info: Info
+2024-12-23T11:22:14.049Z info: Log
+2024-12-23T11:22:14.050Z error: Error
+2024-12-23T11:22:14.050Z warn: Warning
+2024-12-23T11:22:14.050Z info: Info
+2024-12-23T11:22:29.437Z info: Log
+2024-12-23T11:22:29.438Z error: Error
+2024-12-23T11:22:29.439Z warn: Warning
+2024-12-23T11:22:29.439Z info: Info
+2024-12-23T11:22:30.459Z info: Log
+2024-12-23T11:22:30.461Z error: Error
+2024-12-23T11:22:30.461Z warn: Warning
+2024-12-23T11:22:30.461Z info: Info
+2024-12-23T11:22:41.526Z info: Log
+2024-12-23T11:22:41.527Z error: Error
+2024-12-23T11:22:41.528Z warn: Warning
+2024-12-23T11:22:41.528Z info: Info
+2024-12-23T11:22:58.946Z error: Expected ',' or '}' after property value in JSON at position 51 (line 3 column 5)
+2024-12-23T11:22:59.529Z info: Log
+2024-12-23T11:22:59.531Z error: Error
+2024-12-23T11:22:59.531Z warn: Warning
+2024-12-23T11:22:59.531Z info: Info
+2024-12-23T11:23:02.875Z error: Expected ',' or '}' after property value in JSON at position 51 (line 3 column 5)
+2024-12-23T11:31:48.723Z info: Log
+2024-12-23T11:31:48.724Z error: Error
+2024-12-23T11:31:48.724Z warn: Warning
+2024-12-23T11:31:48.725Z info: Info
+2024-12-23T11:31:49.392Z info: Log
+2024-12-23T11:31:49.394Z error: Error
+2024-12-23T11:31:49.394Z warn: Warning
+2024-12-23T11:31:49.394Z info: Info
+2024-12-23T11:33:15.236Z info: Log
+2024-12-23T11:33:15.237Z error: Error
+2024-12-23T11:33:15.238Z warn: Warning
+2024-12-23T11:33:15.238Z info: Info
+2024-12-23T11:33:16.257Z info: Log
+2024-12-23T11:33:16.258Z error: Error
+2024-12-23T11:33:16.258Z warn: Warning
+2024-12-23T11:33:16.258Z info: Info
+2024-12-23T11:33:43.874Z info: Log
+2024-12-23T11:33:43.875Z error: Error
+2024-12-23T11:33:43.876Z warn: Warning
+2024-12-23T11:33:43.876Z info: Info
+2024-12-23T11:43:41.295Z info: Log
+2024-12-23T11:43:41.297Z error: Error
+2024-12-23T11:43:41.297Z warn: Warning
+2024-12-23T11:43:41.297Z info: Info
+2024-12-23T11:44:41.393Z info: Log
+2024-12-23T11:44:41.394Z error: Error
+2024-12-23T11:44:41.395Z warn: Warning
+2024-12-23T11:44:41.395Z info: Info
+2024-12-23T11:44:46.029Z info: Log
+2024-12-23T11:44:46.031Z error: Error
+2024-12-23T11:44:46.031Z warn: Warning
+2024-12-23T11:44:46.031Z info: Info
+2024-12-23T11:49:26.332Z info: Log
+2024-12-23T11:49:26.334Z error: Error
+2024-12-23T11:49:26.334Z warn: Warning
+2024-12-23T11:49:26.334Z info: Info
+2024-12-23T11:49:27.039Z info: Log
+2024-12-23T11:49:27.041Z error: Error
+2024-12-23T11:49:27.041Z warn: Warning
+2024-12-23T11:49:27.041Z info: Info
+2024-12-23T11:50:34.584Z info: Log
+2024-12-23T11:50:34.586Z error: Error
+2024-12-23T11:50:34.587Z warn: Warning
+2024-12-23T11:50:34.587Z info: Info
+2024-12-23T11:52:05.444Z info: Log
+2024-12-23T11:52:05.446Z error: Error
+2024-12-23T11:52:05.446Z warn: Warning
+2024-12-23T11:52:05.446Z info: Info
+2024-12-23T11:52:14.888Z info: Log
+2024-12-23T11:52:14.889Z error: Error
+2024-12-23T11:52:14.890Z warn: Warning
+2024-12-23T11:52:14.890Z info: Info
+2024-12-23T11:52:17.966Z info: Log
+2024-12-23T11:52:17.968Z error: Error
+2024-12-23T11:52:17.968Z warn: Warning
+2024-12-23T11:52:17.968Z info: Info
+2024-12-23T11:52:25.911Z info: Log
+2024-12-23T11:52:25.912Z error: Error
+2024-12-23T11:52:25.913Z warn: Warning
+2024-12-23T11:52:25.913Z info: Info
+2024-12-23T11:52:27.493Z info: Log
+2024-12-23T11:52:27.495Z error: Error
+2024-12-23T11:52:27.495Z warn: Warning
+2024-12-23T11:52:27.495Z info: Info
+2024-12-23T11:52:36.567Z info: Log
+2024-12-23T11:52:36.568Z error: Error
+2024-12-23T11:52:36.569Z warn: Warning
+2024-12-23T11:52:36.569Z info: Info
+2024-12-23T11:52:40.092Z info: Log
+2024-12-23T11:52:40.093Z error: Error
+2024-12-23T11:52:40.094Z warn: Warning
+2024-12-23T11:52:40.094Z info: Info
+2024-12-23T11:52:44.184Z info: Log
+2024-12-23T11:52:44.186Z error: Error
+2024-12-23T11:52:44.186Z warn: Warning
+2024-12-23T11:52:44.186Z info: Info
+2024-12-23T11:52:52.484Z info: Log
+2024-12-23T11:52:52.485Z error: Error
+2024-12-23T11:52:52.486Z warn: Warning
+2024-12-23T11:52:52.486Z info: Info
+2024-12-23T11:52:53.095Z info: Log
+2024-12-23T11:52:53.096Z error: Error
+2024-12-23T11:52:53.097Z warn: Warning
+2024-12-23T11:52:53.097Z info: Info
+2024-12-23T11:52:53.884Z info: Log
+2024-12-23T11:52:53.885Z error: Error
+2024-12-23T11:52:53.885Z warn: Warning
+2024-12-23T11:52:53.886Z info: Info
+2024-12-23T12:07:01.168Z info: Log
+2024-12-23T12:07:01.170Z error: Error
+2024-12-23T12:07:01.171Z warn: Warning
+2024-12-23T12:07:01.171Z info: Info
+2024-12-23T12:07:01.819Z info: Log
+2024-12-23T12:07:01.821Z error: Error
+2024-12-23T12:07:01.821Z warn: Warning
+2024-12-23T12:07:01.821Z info: Info
+2024-12-23T12:58:06.918Z info: Log
+2024-12-23T12:58:06.920Z error: Error
+2024-12-23T12:58:06.923Z warn: Warning
+2024-12-23T12:58:06.927Z info: Info
+2024-12-23T12:58:07.516Z info: Log
+2024-12-23T12:58:07.518Z error: Error
+2024-12-23T12:58:07.518Z warn: Warning
+2024-12-23T12:58:07.519Z info: Info
+2024-12-23T13:11:20.649Z info: Log
+2024-12-23T13:11:20.650Z error: Error
+2024-12-23T13:11:20.650Z warn: Warning
+2024-12-23T13:11:20.650Z info: Info
+2024-12-23T13:11:21.216Z info: Log
+2024-12-23T13:11:21.217Z error: Error
+2024-12-23T13:11:21.218Z warn: Warning
+2024-12-23T13:11:21.218Z info: Info
+2024-12-23T13:11:21.234Z info: Log
+2024-12-23T13:11:21.236Z error: Error
+2024-12-23T13:11:21.236Z warn: Warning
+2024-12-23T13:11:21.236Z info: Info
+2024-12-23T13:12:08.856Z info: Log
+2024-12-23T13:12:08.858Z error: Error
+2024-12-23T13:12:08.858Z warn: Warning
+2024-12-23T13:12:08.858Z info: Info
+2024-12-23T13:12:20.773Z info: Log
+2024-12-23T13:12:20.776Z error: Error
+2024-12-23T13:12:20.776Z warn: Warning
+2024-12-23T13:12:20.776Z info: Info
+2024-12-23T13:13:10.696Z info: Log
+2024-12-23T13:13:10.698Z error: Error
+2024-12-23T13:13:10.698Z warn: Warning
+2024-12-23T13:13:10.698Z info: Info
+2024-12-23T13:13:28.478Z info: Log
+2024-12-23T13:13:28.480Z error: Error
+2024-12-23T13:13:28.480Z warn: Warning
+2024-12-23T13:13:28.480Z info: Info
+2024-12-23T13:13:28.484Z info: Log
+2024-12-23T13:13:28.485Z error: Error
+2024-12-23T13:13:28.485Z warn: Warning
+2024-12-23T13:13:28.485Z info: Info
+2024-12-23T13:13:49.378Z info: Log
+2024-12-23T13:13:49.380Z error: Error
+2024-12-23T13:13:49.380Z warn: Warning
+2024-12-23T13:13:49.380Z info: Info
+2024-12-23T13:13:54.482Z info: Log
+2024-12-23T13:13:54.483Z error: Error
+2024-12-23T13:13:54.484Z warn: Warning
+2024-12-23T13:13:54.484Z info: Info
+2024-12-23T13:14:06.880Z info: Log
+2024-12-23T13:14:06.882Z error: Error
+2024-12-23T13:14:06.883Z warn: Warning
+2024-12-23T13:14:06.883Z info: Info
+2024-12-23T13:14:30.363Z info: Log
+2024-12-23T13:14:30.364Z error: Error
+2024-12-23T13:14:30.365Z warn: Warning
+2024-12-23T13:14:30.365Z info: Info
+2024-12-23T13:14:30.363Z info: Log
+2024-12-23T13:14:30.364Z error: Error
+2024-12-23T13:14:30.365Z warn: Warning
+2024-12-23T13:14:30.365Z info: Info
+2024-12-23T13:14:35.837Z info: Log
+2024-12-23T13:14:35.838Z info: Log
+2024-12-23T13:14:35.838Z error: Error
+2024-12-23T13:14:35.838Z warn: Warning
+2024-12-23T13:14:35.839Z info: Info
+2024-12-23T13:14:35.840Z error: Error
+2024-12-23T13:14:35.840Z warn: Warning
+2024-12-23T13:14:35.840Z info: Info
+2024-12-23T13:14:40.254Z info: Log
+2024-12-23T13:14:40.274Z info: Log
+2024-12-23T13:14:40.275Z error: Error
+2024-12-23T13:14:40.275Z warn: Warning
+2024-12-23T13:14:40.276Z info: Info
+2024-12-23T13:14:40.256Z error: Error
+2024-12-23T13:14:40.256Z warn: Warning
+2024-12-23T13:14:40.256Z info: Info
+2024-12-23T13:14:45.261Z info: Log
+2024-12-23T13:14:45.263Z error: Error
+2024-12-23T13:14:45.263Z warn: Warning
+2024-12-23T13:14:45.263Z info: Info
+2024-12-23T13:14:45.279Z info: Log
+2024-12-23T13:14:45.281Z error: Error
+2024-12-23T13:14:45.281Z warn: Warning
+2024-12-23T13:14:45.282Z info: Info
+2024-12-23T13:14:49.783Z info: Log
+2024-12-23T13:14:49.799Z info: Log
+2024-12-23T13:14:49.785Z error: Error
+2024-12-23T13:14:49.785Z warn: Warning
+2024-12-23T13:14:49.785Z info: Info
+2024-12-23T13:14:49.800Z error: Error
+2024-12-23T13:14:49.801Z warn: Warning
+2024-12-23T13:14:49.801Z info: Info
+2024-12-23T13:14:52.790Z info: Log
+2024-12-23T13:14:52.792Z info: Log
+2024-12-23T13:14:52.792Z error: Error
+2024-12-23T13:14:52.792Z warn: Warning
+2024-12-23T13:14:52.792Z info: Info
+2024-12-23T13:14:52.794Z error: Error
+2024-12-23T13:14:52.794Z warn: Warning
+2024-12-23T13:14:52.794Z info: Info
+2024-12-23T13:14:56.190Z info: Log
+2024-12-23T13:14:56.192Z error: Error
+2024-12-23T13:14:56.192Z warn: Warning
+2024-12-23T13:14:56.192Z info: Info
+2024-12-23T13:14:56.178Z info: Log
+2024-12-23T13:14:56.180Z error: Error
+2024-12-23T13:14:56.180Z warn: Warning
+2024-12-23T13:14:56.180Z info: Info
+2024-12-23T13:15:24.596Z info: Log
+2024-12-23T13:15:24.594Z info: Log
+2024-12-23T13:15:24.596Z error: Error
+2024-12-23T13:15:24.596Z warn: Warning
+2024-12-23T13:15:24.596Z info: Info
+2024-12-23T13:15:24.598Z error: Error
+2024-12-23T13:15:24.598Z warn: Warning
+2024-12-23T13:15:24.598Z info: Info
+2024-12-23T13:15:33.485Z info: Log
+2024-12-23T13:15:33.486Z error: Error
+2024-12-23T13:15:33.486Z warn: Warning
+2024-12-23T13:15:33.487Z info: Info
+2024-12-23T13:15:33.493Z info: Log
+2024-12-23T13:15:33.494Z error: Error
+2024-12-23T13:15:33.494Z warn: Warning
+2024-12-23T13:15:33.494Z info: Info
+2024-12-23T13:15:38.142Z info: Log
+2024-12-23T13:15:38.144Z info: Log
+2024-12-23T13:15:38.143Z error: Error
+2024-12-23T13:15:38.143Z warn: Warning
+2024-12-23T13:15:38.144Z info: Info
+2024-12-23T13:15:38.145Z error: Error
+2024-12-23T13:15:38.146Z warn: Warning
+2024-12-23T13:15:38.146Z info: Info
+2024-12-24T10:58:18.360Z error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+2024-12-24T10:58:46.828Z error: E11000 duplicate key error collection: itinfo.authors index: author_phone_1 dup key: { author_phone: "12-345-67-80" }
+2024-12-24T10:59:08.006Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:15:45.593Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:15:59.223Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:16:18.892Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:16:39.043Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:16:40.090Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:09.599Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:12.139Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T11:18:27.843Z error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:138:14
+    at new Promise (<anonymous>)
+    at login (C:\Users\Abdulaziz\Desktop\ITINFO\controllers\author.controller.js:137:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-12-24T15:15:34.543Z error: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+2024-12-24T15:16:06.887Z error: Expected property name or '}' in JSON at position 4 (line 2 column 3)
+2024-12-24T15:17:11.206Z error: t.toObject is not a function
+2024-12-24T17:10:24.374Z error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+2024-12-25T07:09:12.384Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johnny" }
+2024-12-25T07:09:15.547Z error: E11000 duplicate key error collection: itinfo.authors index: author_phone_1 dup key: { author_phone: "99-999-99-99" }
+2024-12-25T07:10:02.779Z error: author is not defined
+2024-12-25T07:10:59.133Z error: author is not defined
+2024-12-25T07:37:27.693Z error: Cannot populate path `Author` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-12-25T07:37:47.871Z error: Topic.find(...).strictPopulate is not a function
+2024-12-25T07:38:00.843Z error: Cannot populate path `Author` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-12-25T09:56:59.134Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johanny" }
+2024-12-25T11:40:30.165Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johanny" }
+2024-12-25T11:40:48.502Z error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+2024-12-25T11:41:10.234Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johannyasd" }

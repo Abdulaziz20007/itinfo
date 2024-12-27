@@ -1,0 +1,86 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">IT-INFO</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link {{#if isDict}} active {{/if}}" aria-current="page" href="/dictionary">Dictionary</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {{#if isTopic}} active {{/if}}" aria-current="page" href="/topics">Topics</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {{#if isAuthor}} active {{/if}}" aria-current="page" href="/authors">Authors</a>
+        </li>
+        <li class="nav-item" id="adminDashboardLink" style="display: none;">
+          <a class="nav-link {{#if isAdminDashboard}} active {{/if}}" aria-current="page" href="/admin/dashboard">Admin Panel</a>
+        </li>
+        <li class="nav-item" id="loginLink">
+          <a class="nav-link {{#if isLogin}} active {{/if}}" aria-current="page" href="/login">Login</a>
+        </li>
+        <li class="nav-item" id="adminLoginLink">
+          <a class="nav-link {{#if isAdminLogin}} active {{/if}}" aria-current="page" href="/adminlogin">Admin Login</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {{#if isAuthorReg}} active {{/if}}" aria-current="page" href="/authorreg">Authorlikga ro'yxatdan o'tish</a>
+        </li>
+        <li class="nav-item" id="logoutBtn" style="display: none;">
+          <a class="nav-link" href="#" onclick="handleLogout()">Logout</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input
+          class="form-control me-2"
+          type="search"
+          placeholder="Search"
+          aria-label="Search"
+        />
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const adminToken = localStorage.getItem('adminAccessToken');
+    const adminDashboardLink = document.getElementById('adminDashboardLink');
+    const adminLoginLink = document.getElementById('adminLoginLink');
+    const logoutBtn = document.getElementById('logoutBtn');
+
+    if (adminToken) {
+      adminDashboardLink.style.display = 'block';
+      adminLoginLink.style.display = 'none';
+      logoutBtn.style.display = 'block';
+    }
+  });
+
+  async function handleLogout() {
+    try {
+      const response = await fetch('http://localhost:3030/api/admin/logout', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
+
+      if (response.ok) {
+        localStorage.removeItem('adminAccessToken');
+        window.location.href = '/adminlogin';
+      }
+    } catch (err) {
+      console.error('Logout error:', err);
+    }
+  }
+</script>

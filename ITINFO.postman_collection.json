@@ -1,0 +1,750 @@
+{
+  "info": {
+    "name": "ITINFO API",
+    "description": "API collection for ITINFO project",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Admin",
+      "item": [
+        {
+          "name": "Get All Admins",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/admin"
+          }
+        },
+        {
+          "name": "Get Admin by ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/admin/:id"
+          }
+        },
+        {
+          "name": "Create Admin",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/admin",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"admin_name\": \"string\",\n  \"admin_email\": \"admin@example.com\",\n  \"admin_phone\": \"string\",\n  \"admin_password\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Admin",
+          "request": {
+            "method": "PUT",
+            "url": "{{base_url}}/api/admin/:id",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"admin_name\": \"string\",\n  \"admin_email\": \"admin@example.com\",\n  \"admin_phone\": \"string\",\n  \"admin_password\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Admin",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/admin/:id"
+          }
+        },
+        {
+          "name": "Admin Login",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/admin/login",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"admin_email\": \"admin@example.com\",\n  \"admin_password\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Admin Logout",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/admin/logout"
+          }
+        },
+        {
+          "name": "Refresh Admin Token",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/admin/refresh"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Author",
+      "item": [
+        {
+          "name": "Login",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/author/login",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"author_email\": \"string\",\n  \"author_password\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Register",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/author/register",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"author_first_name\": \"string\",\n  \"author_last_name\": \"string\",\n  \"author_nick_name\": \"string\",\n  \"author_email\": \"string\",\n  \"author_phone\": \"string\",\n  \"author_password\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Logout",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/author/logout",
+            "headers": {
+              "Authorization": "Bearer {{access_token}}"
+            }
+          }
+        },
+        {
+          "name": "Refresh Token",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/author/refresh"
+          }
+        },
+        {
+          "name": "Get All Authors",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/author",
+            "headers": {
+              "Authorization": "Bearer {{access_token}}"
+            }
+          }
+        },
+        {
+          "name": "Search Authors",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/author/search",
+            "headers": {
+              "Authorization": "Bearer {{access_token}}"
+            },
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"search\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Activate Author",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/author/activate/:link"
+          }
+        },
+        {
+          "name": "Get Author by ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/author/:id",
+            "headers": {
+              "Authorization": "Bearer {{access_token}}"
+            }
+          }
+        },
+        {
+          "name": "Update Author",
+          "request": {
+            "method": "PUT",
+            "url": "{{base_url}}/api/author/:id",
+            "headers": {
+              "Authorization": "Bearer {{access_token}}"
+            },
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"author_first_name\": \"string\",\n  \"author_last_name\": \"string\",\n  \"author_nick_name\": \"string\",\n  \"author_email\": \"string\",\n  \"author_phone\": \"string\",\n  \"author_password\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Author",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/author/:id",
+            "headers": {
+              "Authorization": "Bearer {{access_token}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dictionary",
+      "item": [
+        {
+          "name": "Get All Terms",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/dict"
+          }
+        },
+        {
+          "name": "Get Term by ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/dict/id",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Find Terms",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/dict/find",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"term\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Get Terms by Letter",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/dict/:letter"
+          }
+        },
+        {
+          "name": "Add Term",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/dict/add",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"term\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Term",
+          "request": {
+            "method": "PUT",
+            "url": "{{base_url}}/api/dict/update/:id",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"term\": \"string\",\n  \"letter\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Term",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/dict/delete/:id"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Category",
+      "item": [
+        {
+          "name": "Get All Categories",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/category"
+          }
+        },
+        {
+          "name": "Get Category by ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/category/id",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Get Categories by Parent ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/category/parent",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Find Category by Name",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/category/name",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Add Category",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/category/add",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"string\",\n  \"parent_category_id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Category",
+          "request": {
+            "method": "PATCH",
+            "url": "{{base_url}}/api/category/update",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\",\n  \"name\": \"string\",\n  \"parent_category_id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Category",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/category/delete",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Topic",
+      "item": [
+        {
+          "name": "Get All Topics",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/topics"
+          }
+        },
+        {
+          "name": "Get Topic by ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/topics/id",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Find Topics",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/topics/find",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"search\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Create Topic",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/topics/add",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"topic_title\": \"string\",\n  \"topic_text\": \"string\",\n  \"author_id\": \"string\",\n  \"expert_id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Topic",
+          "request": {
+            "method": "PATCH",
+            "url": "{{base_url}}/api/topics/update",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\",\n  \"topic_title\": \"string\",\n  \"topic_text\": \"string\",\n  \"author_id\": \"string\",\n  \"expert_id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Topic",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/topics/delete",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Description",
+      "item": [
+        {
+          "name": "Get All Descriptions",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/desc"
+          }
+        },
+        {
+          "name": "Get Description by ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/desc/id",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Get Description by Category ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/desc/cid",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"category_id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Find Descriptions",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/desc/find",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"search\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Add Description",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/desc/add",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"category_id\": \"string\",\n  \"description\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Description",
+          "request": {
+            "method": "PATCH",
+            "url": "{{base_url}}/api/desc/update",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\",\n  \"description\": \"string\",\n  \"category_id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Description",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/desc/delete",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tag",
+      "item": [
+        {
+          "name": "Get All Tags",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/tag"
+          }
+        },
+        {
+          "name": "Create Tag",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/tag/add",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"topic_id\": \"string\",\n  \"category_id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Tag",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/tag/delete",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Synonym",
+      "item": [
+        {
+          "name": "Get All Synonyms",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/synonym"
+          }
+        },
+        {
+          "name": "Get Synonym by ID",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/synonym/id",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Add Synonym",
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/api/synonym/add",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"value\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Update Synonym",
+          "request": {
+            "method": "PATCH",
+            "url": "{{base_url}}/api/synonym/update",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\",\n  \"value\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "Delete Synonym",
+          "request": {
+            "method": "DELETE",
+            "url": "{{base_url}}/api/synonym/delete",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"string\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:3030"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<div class="container py-4">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    {{#if topics}}
+      {{#each topics}}
+        <div class="col">
+          <div class="card h-100 shadow-sm hover-shadow">
+            <div class="card-body">
+              <h5 class="card-title fw-bold mb-3">{{this.topic_title}}</h5>
+              <h6 class="card-subtitle mb-3 text-body-secondary">
+                <i class="bi bi-person-circle me-2"></i>
+                {{this.author_id.author_first_name}}
+                {{this.author_id.author_last_name}}
+              </h6>
+              <p class="card-text">{{this.topic_text}}</p>
+            </div>
+          </div>
+        </div>
+      {{/each}}
+    {{else}}
+      <div class="col-12 text-center">
+        <p class="lead text-muted">Topiclar mavjud emas</p>
+      </div>
+    {{/if}}
+  </div>
+</div>
