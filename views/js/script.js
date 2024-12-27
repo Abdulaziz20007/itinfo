@@ -18,7 +18,7 @@ async function getAuthors() {
   }
 
   try {
-    fetch("http://localhost:3030/api/author", {
+    fetch("http://45.138.158.245:3030/api/author", {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
@@ -71,20 +71,23 @@ function getTokenExpiration(token) {
 
 async function refreshTokenFunc(token) {
   try {
-    const response = await fetch("http://localhost:3030/api/author/refresh", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
+    const response = await fetch(
+      "http://45.138.158.245:3030/api/author/refresh",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+      }
+    );
     const data = await response.json();
     if (data.error && data.error == "jwt expired") {
       console.log("Refresh token expired");
       return window.location.replace("/login");
     }
-    localStorage.setItem("accessToken", data.accessToken)
-    return data.accessToken
-} catch (err) {
+    localStorage.setItem("accessToken", data.accessToken);
+    return data.accessToken;
+  } catch (err) {
     console.log(err);
     return window.location.replace("/login");
   }

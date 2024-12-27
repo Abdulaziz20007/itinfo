@@ -32,8 +32,8 @@ async function start() {
   try {
     await mongoose.connect(config.get("dbAtlasUri"));
     app.listen(PORT, () => {
-      console.log(`server started at: http://localhost:${PORT}/api`);
-      console.log(`website started at: http://localhost:${PORT}/`);
+      console.log(`server started at: http://45.138.158.245:${PORT}/api`);
+      console.log(`website started at: http://45.138.158.245:${PORT}/`);
     });
   } catch (error) {
     console.log(error);

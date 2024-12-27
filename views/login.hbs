@@ -53,11 +53,11 @@
   form.addEventListener("submit", async (e) => { e.preventDefault(); const email
   = document.getElementById("email").value; const password =
   document.getElementById("password").value; try {
-  fetch("http://localhost:3030/api/author/login", { method: "POST", headers: {
-  "Content-Type": "application/json", }, body: JSON.stringify({ author_email:
-  email, author_password: password }) }) .then(res => { console.log(res); if
-  (res.ok) { console.log("Success"); return res.json(); } else {
-  console.error("Failed"); } }) .then(data => { console.log(data);
+  fetch("http://45.138.158.245:3030/api/author/login", { method: "POST",
+  headers: { "Content-Type": "application/json", }, body: JSON.stringify({
+  author_email: email, author_password: password }) }) .then(res => {
+  console.log(res); if (res.ok) { console.log("Success"); return res.json(); }
+  else { console.error("Failed"); } }) .then(data => { console.log(data);
   localStorage.setItem("accessToken", data.accessToken);
   document.getElementById("login-form").style.display = "none";
   document.getElementById("welcome").style.display = "block" }) .catch(err => {
