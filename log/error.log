@@ -149,3 +149,5 @@ Error: unhandledRejection example
 2024-12-25T11:40:30.165Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johanny" }
 2024-12-25T11:40:48.502Z error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
 2024-12-25T11:41:10.234Z error: E11000 duplicate key error collection: itinfo.authors index: author_nick_name_1 dup key: { author_nick_name: "Johannyasd" }
+2025-01-07T18:43:03.669Z error: E11000 duplicate key error collection: itinfo.authors index: author_email_1 dup key: { author_email: "qwerty@qwerty.com" }
+2025-01-07T18:43:50.434Z error: E11000 duplicate key error collection: itinfo.authors index: author_phone_1 dup key: { author_phone: "12-335-67-80" }

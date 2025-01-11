@@ -3,6 +3,7 @@ const Dictionary = require("../schemas/Dictionary");
 const Topic = require("../schemas/Topic");
 const Author = require("../schemas/Author");
 const { errorHandler } = require("../helpers/error_handler");
+const { default: mongoose } = require("mongoose");
 
 const router = require("express").Router();
 
